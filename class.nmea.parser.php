@@ -9,7 +9,8 @@
 //	URL: http://cs.mwsu.edu/~griffin
 //	Licensed: GNU General Public License (GNU GPL)
 //
-//	Do what you want with the code. I'm not even sure if it's correct. 
+//	Do what you want with the code. 
+//  Filtering not implemented yet....
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 class NmeaParser{
